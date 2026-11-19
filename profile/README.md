@@ -1,4 +1,4 @@
-# CYBERIA:DIGITAL
+# CYBERIA:INTERACTIVE
 Video game porting, research and development studio focused on older hardware and open-source development libraries, founded by Rachel Bartmoss ([@faithvoid](https://github.com/faithvoid))
 
 Hack the planet.
